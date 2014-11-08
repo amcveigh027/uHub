@@ -1,0 +1,22 @@
+{
+  "name": "uhub",
+  "version": "0.0.0",
+  "description": "Hack Hunger Homelessness",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "hunger",
+    "homelessness"
+  ],
+  "author": "uhub",
+  "license": "BSD",
+  "dependencies": {
+    "sequelize": "~2.0.0-rc2",
+    "mysql": "~2.5.3",
+    "express": "~4.10.1",
+    "swig": "~1.4.2"
+  }
+}
